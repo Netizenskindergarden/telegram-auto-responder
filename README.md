@@ -27,5 +27,6 @@ A Python-based Telegram userbot that automatically replies to incoming private m
 1. Install dependencies:
    ```bash
    pip install telethon qrcode
-2.   Run the bot: ```bash
-    python bot.py
+2. Run the bot:
+   ```bash
+   python my_bot.py
